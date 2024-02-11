@@ -2,6 +2,9 @@
 
 This repository contains a responsive landing page for a Simple Omelette Recipe. It features a clean design, easy-to-follow instructions, and a nutrition table. Feel free to fork and customize it for your own culinary projects.
 
+## Live Preview
+[See Demo](https://afrozpawaskar.github.io/recipePage/)
+
 ## Features
 Responsive design
 Detailed recipe information
